@@ -10,7 +10,7 @@ I decided to upload the source of chat system because i tired of reuploading the
 The point of this chat system is allow players from all age groups and all regions talk without restrictions.
 
 
-# Tutorial how to make secure custom chat where players will not abuse whitespaces and rich text
+# Tutorial how to make good and secure custom chat
 
 Step 1: Chat system (the most important step)
 
