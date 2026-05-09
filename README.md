@@ -2,7 +2,7 @@
 Chat system for those people who are lazy to recreate it, this chat system is from game 'Custom Chat' by 'Camera Zone' (@GAMECHATLOGGER), some features were removed for obvious reasons. (well its more optimized lol)
 
 # How to install ExpChatRemake
-1. Download rbxm file in [releases](https://github.com/Tplay4/Custom-Chat-System/releases/tag/tag) and setup everything.
+1. Download rbxm file in [releases](https://github.com/Tplay4/Custom-Chat-System/releases/tag/tag2) and setup everything.
 2. Set 'TextChatService.CreateDefaultTextChannels' to 'false'.
 3. You're done!
 
